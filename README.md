@@ -281,7 +281,7 @@ These scripts create the required database schema and tables for the system.
 
 ## 📄 Documentation
 
-- **SRS (Software Requirements Specification):** See `I240782_I240630_I240840_OneDeskReport_docx.pdf`
+- **SRS (Software Requirements Specification):** See `OneDeskReport_docx.pdf`
 - **Class Diagram:** System design with 30+ classes
 - **Sequence Diagrams:** 12 detailed use case flows
 - **Domain Model:** Complete entity relationships
