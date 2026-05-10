@@ -3,6 +3,7 @@
 *.iml
 .vscode/
 *.swp
+out/
 
 # Compiled files
 *.class
