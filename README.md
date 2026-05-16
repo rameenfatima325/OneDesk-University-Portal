@@ -4,7 +4,6 @@ OneDesk is a JavaFX-based desktop application designed to centralize and simplif
 
 The project follows an organized layered architecture with separate business logic, database access, and UI modules. It also demonstrates the use of multiple Object-Oriented Programming principles and design patterns.
 
---
 
 **Key Problem Addressed:**
 Universities handle numerous daily academic and administrative requests through inefficient methods, causing delays, miscommunication, lack of transparency, and increased workload for administrative staff. OneDesk provides a structured, digital solution.
